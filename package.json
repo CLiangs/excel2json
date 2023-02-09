@@ -1,0 +1,12 @@
+{
+  "name": "excel2json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "devDependencies": {
+    "convert-excel-to-json": "^1.6.1"
+  },
+  "license": "MIT"
+}
